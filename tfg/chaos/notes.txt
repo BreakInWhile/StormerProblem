@@ -1,0 +1,9 @@
+Aplicacion de Poincaré
+|
+|
+|- 2d
+    - z = 0
+    - cuando corta desde z > 0. (Lagrange)
+    - calculo rho,rho',z'
+
+|- 3d
